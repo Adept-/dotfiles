@@ -9,4 +9,3 @@ set cindent
 colorscheme onedark
 set t_Co=256
 imap jj <Esc>
-nnoremap <C-w> :w<CR>
