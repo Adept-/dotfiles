@@ -18,4 +18,6 @@ set noexpandtab
 set autoindent
 set cindent
 set t_Co=256
+set wrap
+set textwidth=80
 imap jj <Esc>
